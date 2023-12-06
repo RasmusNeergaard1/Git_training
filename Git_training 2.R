@@ -2,4 +2,4 @@ library(RPostgres)
 library(tidyverse)
 x <- 4
 y <- 5 
-print(x+y) # lil bitch
+print(x+y) # lil bi
